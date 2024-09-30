@@ -1,0 +1,37 @@
+body {
+    background-color:azure;
+    color: black;
+    font-family: "Quicksand", sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color:whitesmoke;
+    color: black;
+    font-family: "Quicksand", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align:start;
+    max-width: 95%;
+
+}
+
+img {
+    max-width: 200%;
+}
+
+
+
